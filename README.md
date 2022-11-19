@@ -1,4 +1,4 @@
-# ⭐WOMAN IN TECH ACADEMY  2. DÖNEM BİTİRME PROJESİ ⭐
+# ⭐WOMAN IN TECH ACADEMY BİTİRME PROJESİ ⭐
 # ⭐ OLİMPİYAT OYUNLARI VERİ SETİ İLE VERİ ANALİZİ ⭐
 
 ![image](https://user-images.githubusercontent.com/53252601/202868693-75ec2fc7-1955-406b-89cb-6ab969db815f.png)
