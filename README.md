@@ -197,17 +197,18 @@ Olimpiyat veri setinde yer alan verilere göre, kadınların,erkeklerin, farklı
 ![image](https://user-images.githubusercontent.com/53252601/202870398-42e77493-4c05-422b-9e60-a8b6ee6cb651.png)
 
 
-                                ⭐⭐⭐⭐ ANALİZLERİMİN SONUNA GELDİK  ⭐⭐⭐⭐
+## ⭐⭐⭐⭐ ANALİZLERİMİN SONUNA GELDİK  ⭐⭐⭐⭐
 
-                        ⭐⭐⭐⭐ DİNLEDİĞİNİZ VE İNCELEDİĞİNİZ İÇİN TEŞEKKÜR EDERİM  ⭐⭐⭐⭐
+## ⭐⭐⭐⭐ İNCELEDİĞİNİZ İÇİN TEŞEKKÜR EDERİM  ⭐⭐⭐⭐
 
-                                                ⭐⭐ HATİCE CANDAN ⭐⭐
+
+![image](https://user-images.githubusercontent.com/53252601/202870676-d956d77a-f543-485c-b6fd-48e53cce2630.png)
+                                      
                                                 
                                                 
-                                                
-Akademi kapsamında hazırlamış olduğum medium yazılarıma aşağıdaki linkten ulaşabilirsiniz.<br>
-<a href="https://medium.com/@haticecandan">MEDİUM</a> <br>
+Python ve Makine Öğrenmesi alanıyla ilgili hazırladığım Medium yazılarıma aşağıdaki linkten ulaşabilirsiniz.<br>
+<a href="https://medium.com/@haticecandan">MEDIUM</a> <br>
 
-Aynı zamanda aşağıdaki linkten Linkedln sayfama da göz atabilirsiniz.<br>
-<a href="https://www.linkedin.com/in/haticecandan">LİNKEDİN</a> 
+Ayrıca Linkedln sayfama da göz atabilirsiniz.<br>
+<a href="https://www.linkedin.com/in/haticecandan">LINKEDIN</a> 
 
